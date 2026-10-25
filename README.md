@@ -1,9 +1,9 @@
-<p align="center"><img src="design/brand/codex-pocket-logo.png" width="84" alt="Codex Pocket 标志"></p>
+<p align="center"><img src="design/brand/codex-pocket-logo.png" width="84" alt="Codex Pocket 标志（Cheap Token 价签设计）"></p>
 <h1 align="center">Codex Pocket</h1>
 <p align="center"><strong>把电脑上的 Codex，装进口袋。</strong></p>
 <p align="center">在安卓手机上查看项目、继续对话、处理审批，让任务在你自己的电脑上执行。</p>
 <p align="center">
-<a href="https://github.com/a110q/Codex-Pocket-Connector/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/a110q/Codex-Pocket-Connector?color=1677ff"></a>
+<a href="https://github.com/yan9651688/Codex-Pocket-Connector/releases/latest"><img alt="Release" src="https://img.shields.io/github/v/release/yan9651688/Codex-Pocket-Connector?color=1677ff"></a>
 <a href="LICENSE"><img alt="MIT" src="https://img.shields.io/badge/license-MIT-22a06b"></a>
 <img alt="Android 10+" src="https://img.shields.io/badge/Android-10%2B-22a06b">
 <img alt="Windows 11" src="https://img.shields.io/badge/Windows-11-1677ff">
@@ -37,7 +37,7 @@
 
 ## 下载安装
 
-**安卓与电脑连接器：0.9.1。** 从 [GitHub Releases](https://github.com/a110q/Codex-Pocket-Connector/releases/latest) 下载，每个 Release 仅存放其对应版本的安装包，校验值见同版 `SHA256SUMS.txt`。
+**安卓与电脑连接器：0.9.1。** 从 [GitHub Releases](https://github.com/yan9651688/Codex-Pocket-Connector/releases/latest) 下载，每个 Release 仅存放其对应版本的安装包，校验值见同版 `SHA256SUMS.txt`。
 
 | 平台 | 下载 | 使用方式 |
 | --- | --- | --- |
@@ -90,7 +90,7 @@ Mac 包尚未 Apple 公证，Windows EXE 尚未代码签名。请核对下载来
 ## 开发与自建
 
 ```sh
-git clone https://github.com/a110q/Codex-Pocket-Connector.git
+git clone https://github.com/yan9651688/Codex-Pocket-Connector.git
 cd Codex-Pocket-Connector
 npm ci
 npm test
@@ -102,7 +102,7 @@ npm test
 
 ## 反馈与贡献
 
-欢迎通过 [Issues](https://github.com/a110q/Codex-Pocket-Connector/issues) 反馈。请注明版本、手机与电脑系统、连接方式、复现步骤，并提供脱敏截图或日志。提交前运行相关测试；界面改动建议附上使用虚构数据的截图。
+欢迎通过 [Issues](https://github.com/yan9651688/Codex-Pocket-Connector/issues) 反馈。请注明版本、手机与电脑系统、连接方式、复现步骤，并提供脱敏截图或日志。提交前运行相关测试；界面改动建议附上使用虚构数据的截图。
 
 ## 许可证
 
